@@ -1,49 +1,43 @@
 {
-    "name": "horizon-extended",
-    "displayName": "Horizon Extended Theme",
-    "description": "A dark theme based on the Horizon theme. This provides some much need additions included semantic highlighting.",
-    "version": "0.2.0",
-    "publisher": "lancewilhelm",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "icon": "logo.png",
-    "author": {
-        "name": "Lance Wilhelm",
-        "email": "lance.wilhelm@gmail.com",
-        "url": "https://lancewilhelm.com"
-    },
-    "repository": {
-        "url": "https://github.com/lancewilhelm/horizon-extended",
-        "type": "git"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "theme",
-        "dark",
-        "horizon",
-        "extended",
-        "warm"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Horizon Extended",
-                "uiTheme": "vs-dark",
-                "path": "./themes/original.json"
-            },
-            {
-                "label": "Horizon Extended Light",
-                "uiTheme": "vs",
-                "path": "./themes/light.json"
-            },
-            {
-                "label": "Horizon Extended - No Italics",
-                "uiTheme": "vs-dark",
-                "path": "./themes/original_no_italics.json"
-            }
-        ]
-    }
+  "name": "horizon-transcended",
+  "displayName": "Horizon Transcended Theme",
+  "description": "A dark theme based on the Horizon theme. This provides some much needed additions, including semantic highlighting.",
+  "version": "0.2.1",
+  "publisher": "mallowmew",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "icon": "logo.png",
+  "author": {
+    "name": "mallowmew",
+    "email": "blackcatstone@proton.me",
+    "url": "https://github.com/mallowmew/horizon-transcended"
+  },
+  "repository": {
+    "url": "https://github.com/mallowmew/horizon-transcended",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "horizon",
+    "warm"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Horizon Transcended",
+        "uiTheme": "vs-dark",
+        "path": "./themes/original.json"
+      },
+      {
+        "label": "Horizon Transcended - No Italics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/original_no_italics.json"
+      }
+    ]
+  }
 }

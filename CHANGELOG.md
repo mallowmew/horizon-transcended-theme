@@ -1,6 +1,13 @@
 # Change Log
 
-All notable changes to the "horizon-extended" extension will be documented in this file.
+All notable changes to the "horizon-transcended" extension will be documented in this file.
+
+## [0.2.1]
+
+- Fork to horizon-transcended
+- Remove light theme
+- Changed some colours to my personal preference.
+- Terminal 'blacks' made brighter, so they show up against the background
 
 ## [0.2.0]
 
